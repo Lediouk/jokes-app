@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 $host = "jokeys-server.mysql.database.azure.com"; // Full server name with domain
 $port = "3306"; // Default MySQL port
 $username = "ahbddshdku"; // Generated username
-$user_pass = "your_password"; // Replace with the actual password
+$user_pass = "#$###kdsdaSDAS"; // Replace with the actual password
 $database_in_use = "jokeys-database"; // Name of your database
 
 $mysqli = new mysqli($host, $username, $user_pass, $database_in_use, $port);
